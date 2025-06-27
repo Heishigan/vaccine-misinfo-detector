@@ -27,7 +27,7 @@ Check out the live demo hosted on Hugging Face Spaces:
 
 ---
 
-## 🛠️ Quick Start
+## Quick Start
 
 ### 1. Clone the repository
 ```git clone https://github.com/Heishigan/vaccine-misinfo-detector.git```
