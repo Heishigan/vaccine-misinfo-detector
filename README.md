@@ -77,7 +77,7 @@ Or use Gradio:
 ## Roadmap
 
 - ✅ Deploy to Hugging Face Spaces
-- ⬜ Add OCR image support
+- ✅ Add OCR image support
 - ⬜ Implement RAG pipeline (retriever + generator)
 - ⬜ Add citation metadata to rebuttals
 - ⬜ Evaluate on external datasets
