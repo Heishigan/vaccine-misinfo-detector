@@ -31,12 +31,15 @@ Check out the live demo hosted on Hugging Face Spaces:
 
 ### 1. Clone the repository
 ```git clone https://github.com/Heishigan/vaccine-misinfo-detector.git```
+
 ```cd vaccine-misinfo-detector```
 
 
 ### 2. Setup Environment
 ```python3 -m venv venv```
+
 ```source venv/bin/activate```
+
 ```pip install -r requirements.txt```
 
 
