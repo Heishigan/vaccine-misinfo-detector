@@ -1,8 +1,6 @@
 # Vaccine Misinformation Detector
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)  
-[Try the demo on Hugging Face Spaces]([https://huggingface.co/spaces/Heishigan/vaccine-misinfo-detector](https://huggingface.co/spaces/heishi99/vaccine-misinfo-detector))
-
 ---
 
 ## Overview
@@ -25,7 +23,7 @@ A Natural Language Processing (NLP) tool to **detect and rebut vaccine-related m
 
 Check out the live demo hosted on Hugging Face Spaces:
 
- [https://huggingface.co/spaces/Heishigan/vaccine-misinfo-detector](https://huggingface.co/spaces/Heishigan/vaccine-misinfo-detector)
+ [https://huggingface.co/spaces/Heishigan/vaccine-misinfo-detector](https://huggingface.co/spaces/heishi99/vaccine-misinfo-detector)
 
 ---
 
